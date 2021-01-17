@@ -1,2 +1,4 @@
+# Among Money
 # ElleHacks2021
-The Unity code for the finance-themed escape room
+This is the Unity code for our 2021 ElleHacks submission
+Among Money is an Among Us based escape room revolving around education immigrant students about financial literacy
